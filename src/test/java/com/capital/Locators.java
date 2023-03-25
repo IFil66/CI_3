@@ -34,7 +34,7 @@ public class Locators {
   public static final By signUpFormBtnCancel = By.cssSelector("#s_overlay button.button-cleared");
 
   public static final By signUpFormLinkPrivacyPolicy = By.cssSelector(
-      "div.form-container-small-footer a[href*='http'], div.form-container-small-footer a[target='_blank']");
+      "div.form-container-small-footer a[href*='http'], div.form-container-small-footer a[target='_blank'], a[href='/privacy-policy']");
 
 
   // Sign up form on new page

@@ -28,11 +28,11 @@ public class Methods {
   public void setUp() {
     FirefoxOptions options = new FirefoxOptions();
     options.setPageLoadStrategy(PageLoadStrategy.EAGER);
-    options.addArguments("-headless");
+//    options.addArguments("-headless");
     driver = new FirefoxDriver(options);
 
 
-    Dimension dimension = new Dimension(1600, 1000);
+    Dimension dimension = new Dimension(390, 844);
     driver.manage().window().setSize(dimension);
     driver.manage().deleteAllCookies();
   }
