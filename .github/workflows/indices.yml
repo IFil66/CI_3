@@ -1,4 +1,4 @@
-name: CI_1 (Indices)
+name: CI_3 (Indices)
 
 on: workflow_dispatch
 

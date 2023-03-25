@@ -1,4 +1,4 @@
-name: CI_1 (Forex)
+name: CI_3 (Forex)
 
 on: workflow_dispatch
 

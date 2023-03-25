@@ -1,4 +1,4 @@
-name: CI_1 (Cryptocurrencies)
+name: CI_3 (Cryptocurrencies)
 
 on: workflow_dispatch
 

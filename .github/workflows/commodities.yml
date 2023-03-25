@@ -1,4 +1,4 @@
-name: CI_1 (Commodities)
+name: CI_3 (Commodities)
 
 on: workflow_dispatch
 
