@@ -146,18 +146,18 @@ public class Locators {
 
   // Trading instrument cards ------------------------------------ START
   // Files with trading instrument cards name
-  public static final String ADDRESS_TIC_NAME_FOREX = "src/test/resources/data/tradingInstrumentCards/url/forexPageUrl.txt";
-  public static final String ADDRESS_TIC_NAME_INDICES = "src/test/resources/data/tradingInstrumentCards/url/indicesPageUrl.txt";
-  public static final String ADDRESS_TIC_NAME_COMMODITIES = "src/test/resources/data/tradingInstrumentCards/url/commoditiesPageUrl.txt";
-  public static final String ADDRESS_TIC_NAME_CRYPTOCURRENCIES = "src/test/resources/data/tradingInstrumentCards/url/cryptocurrenciesPageUrl.txt";
-  public static final String ADDRESS_TIC_NAME_SHARES = "src/test/resources/data/tradingInstrumentCards/url/sharesPageUrl.txt";
+  public static final String ADDRESS_TIC_NAME_FOREX = "src/test/resources/data/url/forexPageUrl.txt";
+  public static final String ADDRESS_TIC_NAME_INDICES = "src/test/resources/data/url/indicesPageUrl.txt";
+  public static final String ADDRESS_TIC_NAME_COMMODITIES = "src/test/resources/data/url/commoditiesPageUrl.txt";
+  public static final String ADDRESS_TIC_NAME_CRYPTOCURRENCIES = "src/test/resources/data/url/cryptocurrenciesPageUrl.txt";
+  public static final String ADDRESS_TIC_NAME_SHARES = "src/test/resources/data/url/sharesPageUrl.txt";
 
   // CSV files
-  public static final String ADDRESS_CSV_FILE_FOREX = "src/test/resources/data/tradingInstrumentCards/csvFiles/allDataFiles/forexTicName.csv";
-  public static final String ADDRESS_CSV_FILE_INDICES = "src/test/resources/data/tradingInstrumentCards/csvFiles/allDataFiles/indicesTicName.csv";
-  public static final String ADDRESS_CSV_FILE_COMMODITIES = "src/test/resources/data/tradingInstrumentCards/csvFiles/allDataFiles/commoditiesTicName.csv";
-  public static final String ADDRESS_CSV_FILE_CRYPTOCURRENCIES = "src/test/resources/data/tradingInstrumentCards/csvFiles/allDataFiles/cryptocurrenciesTicName.csv";
-  public static final String ADDRESS_CSV_FILE_SHARES = "src/test/resources/data/tradingInstrumentCards/csvFiles/allDataFiles/sharesTicName.csv";
+  public static final String ADDRESS_CSV_FILE_FOREX = "src/test/resources/data/csvFiles/sourceCSV/forexSource.csv";
+  public static final String ADDRESS_CSV_FILE_INDICES = "src/test/resources/data/csvFiles/sourceCSV/indicesSource.csv";
+  public static final String ADDRESS_CSV_FILE_COMMODITIES = "src/test/resources/data/csvFiles/sourceCSV/commoditiesSource.csv";
+  public static final String ADDRESS_CSV_FILE_CRYPTOCURRENCIES = "src/test/resources/data/csvFiles/sourceCSV/cryptocurrenciesSource.csv";
+  public static final String ADDRESS_CSV_FILE_SHARES = "src/test/resources/data/csvFiles/sourceCSV/sharesSource.csv";
 
 
   // Special data for search the trading instrument card pages ---- START
